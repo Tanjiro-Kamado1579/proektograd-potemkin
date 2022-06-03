@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Hind:wght@300;400;500;600;700&family=Kdam+Thmor+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Hind:wght@300;400;500;600;700&family=Kdam+Thmor+Pro&family=Teko:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Hind:wght@300;400;500;600;700&family=Kdam+Thmor+Pro&family=Plaster&family=Teko:wght@300;400;500;600;700&display=swap');
+h2{
+    color: blue;
+    font-family: Plaster;
+
+
+}
+head{
+    background-color: aqua;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img{
+    width: 500px;
+}
+p{font-size:30px;
+color: rgb(36, 36, 36);
+}
+h1{
+     font-family: Teko;   
+}
+.sergey{
+    width: 100px;
+}
+.idiot{
+    width: 700px;
+}
+body{
+    font-family: Teko;
+}
+p{
+    font-family: Teko;
+
+}
+
+.class1{
+    font-family: Hind;
+    color: blue;
+    font-size: 500;
+
+}
+.class2{
+    color: black;
+    font-size: medium;
+}
+.class3{
+    color:blueviolet;
+    font-size: large;
+}
